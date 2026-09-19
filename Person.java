@@ -5,7 +5,7 @@ public class Person
     private int age;
     private String email;
 
-    //constructor
+    //empty constructor
     public Person()
     {
 
